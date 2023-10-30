@@ -1,4 +1,4 @@
-![image](https://github.com/NivethaKumar30/Experiment-4---Implementation-of-MLP-with-Backpropagation/assets/119559844/ea381661-e633-49da-bd55-fcbed9793791)# Experiment-4---Implementation-of-MLP-with-Backpropagation
+
 
 ## AIM:
 To implement a Multilayer Perceptron for Multi classification
